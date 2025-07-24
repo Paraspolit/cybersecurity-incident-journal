@@ -1,54 +1,34 @@
-# Incident Handler's Journal
+# 🛡️ Cybersecurity Incident Handler's Journal
 
-This document contains incident response journal entries completed as part of the Google Cybersecurity Certificate. Each entry is based on simulated scenarios designed to demonstrate incident handling, documentation, and analysis skills.
+This repository contains my completed **Incident Handler's Journal** developed during the [Google Cybersecurity Certificate](https://www.coursera.org/professional-certificates/google-cybersecurity). It documents simulated incident investigations, tool usage, and reflection entries that demonstrate my practical knowledge and analytical thinking as a cybersecurity professional.
 
----
+## 📄 About the Journal
 
-## Entry 1  
-**Date:** July 1, 2025  
+The journal includes:
 
-**Description:**  
-A ransomware attack targeted a small healthcare clinic in Western Australia, causing a complete shutdown of operations after staff reported they couldn’t access medical records or systems. A ransom note was displayed on employee computers demanding payment to decrypt the files.
+- ✅ 2 incident investigation entries using the **5 W’s method**
+- 🛠️ 2 entries showing hands-on experience with tools such as **Splunk** and **Wireshark**
+- 🔁 Mapping to the **NIST Incident Response Lifecycle** phases
+- 🧠 Reflections on key learnings and challenges
 
-**Tool(s) used:**  
-None at this stage. Tools to be considered for incident investigation may include antivirus software, email security tools, backup systems, and forensic analysis platforms.
+Each entry is based on realistic cybersecurity scenarios covering:
 
-**The 5 W's:**  
-- **Who:** An organized group of unethical hackers known for targeting healthcare and transportation sectors.  
-- **What:** Attackers sent phishing emails with malicious attachments. Once opened, ransomware encrypted critical files and demanded payment.  
-- **When:** Tuesday, July 1, 2025, at approximately 9:00 a.m.  
-- **Where:** A small healthcare clinic located in Western Australia.  
-- **Why:** The incident happened due to a successful phishing campaign exploiting employee action, allowing ransomware to be deployed and critical systems to be encrypted.
+- Ransomware attacks
+- Cloud misconfigurations
+- SSH brute-force login attempts
+- DNS-based command-and-control activity
 
-**Additional notes:**  
-This incident highlights the critical need for phishing awareness training, email filtering, and reliable data backup systems. A formal incident response plan should be implemented and tested regularly.
+## 🔗 Final Version of Journal
 
----
+👉 [Download the final version of my journal (DOCX)](./Incident_Handlers_Journal_ParasKC_Final.docx)
 
-## Entry 2  
-**Date:** July 21, 2025  
+## 📚 Key Skills Demonstrated
 
-**Description:**  
-A data leakage incident occurred at a WA healthcare clinic due to a misconfigured cloud storage bucket. Sensitive patient information was inadvertently made publicly accessible, prompting an urgent response from the IT security team.
-
-**Tool(s) used:**  
-Cloud Security Posture Management (CSPM), Azure configuration scanner, and data loss prevention (DLP) tool.
-
-**The 5 W's:**  
-- **Who:** The internal IT team unintentionally misconfigured a cloud storage setting.  
-- **What:** A cloud bucket containing sensitive patient records (including personally identifiable information) was exposed to the public internet without authentication.  
-- **When:** During a routine security audit on the morning of July 21, 2025.  
-- **Where:** Cloud infrastructure used by a WA-based healthcare provider.  
-- **Why:** A lack of automated misconfiguration detection and poor access control policies led to the accidental data exposure.
-
-**Additional notes:**  
-This incident emphasizes the importance of cloud security audits, automated configuration monitoring, and regular staff training. Implementing Infrastructure as Code (IaC) with security guardrails could prevent similar incidents.
+- Incident documentation and analysis  
+- Use of SIEM and network traffic analysis tools  
+- Application of detection and response frameworks  
+- Written communication and reporting  
 
 ---
 
-## Author
-
-**Paras K C**  
-Cybersecurity Enthusiast | Incident Handler  
-[GitHub Profile](https://github.com/Paraspolit) | [LinkedIn](https://www.linkedin.com/in/paraskc)  
-Email: paraskc542@gmail.com
+If you'd like to see my full portfolio or connect, feel free to check my [LinkedIn](https://www.linkedin.com/in/paras-kc) or GitHub profile.
