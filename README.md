@@ -31,4 +31,4 @@ Each entry is based on realistic cybersecurity scenarios covering:
 
 ---
 
-If you'd like to see my full portfolio or connect, feel free to check my [LinkedIn](https://www.linkedin.com/in/paras-kc) or GitHub profile.
+If you'd like to see my full portfolio or connect, feel free to check my [LinkedIn](https://www.linkedin.com/in/paraskc) or GitHub profile.
